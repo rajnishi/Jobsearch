@@ -11,3 +11,4 @@ public class BasePage {
         commonMethods = new CommonMethods(driver);
     }
 }
+//testing changes in the code 
